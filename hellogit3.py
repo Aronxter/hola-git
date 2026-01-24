@@ -1,5 +1,2 @@
-import pandas as pd
-import seaborn as sns
-import matplotlib as plt
+print("hello git3 version 2.23.423.4")
 
-'''hola python warasigmabols...'''
