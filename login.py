@@ -1,1 +1,1 @@
-print("login version 2.0 Min version")
+print("login version 2.0 Login version ya entiendo los conflictos!!")
