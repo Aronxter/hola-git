@@ -1,2 +1,1 @@
-print("sudo apt install pandas as pd")
-
+print("hello git3 v3.0 testear errores al mergear \" creo que ya me paso\"")
